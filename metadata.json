@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gatekeeper AI Firewall",
+  "description": "A specialized control room for monitoring, intercepting, and emergency-stopping AI Agents and physical robotic actuators.",
+  "requestFramePermissions": []
+}
