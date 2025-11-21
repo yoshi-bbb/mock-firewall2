@@ -7,7 +7,6 @@ import {
   Terminal, 
   Cpu, 
   AlertCircle,
-  Filter,
   MoreHorizontal,
   Search,
   Shield,

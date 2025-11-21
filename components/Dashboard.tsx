@@ -8,7 +8,7 @@ import {
   Database,
   Lock
 } from 'lucide-react';
-import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, LineChart, Line, XAxis, YAxis, CartesianGrid, AreaChart, Area } from 'recharts';
+import { PieChart, Pie, Cell, ResponsiveContainer, Tooltip, XAxis, YAxis, CartesianGrid, AreaChart, Area } from 'recharts';
 import { Agent, AgentStatus, GlobalState, Incident } from '../types';
 
 interface DashboardProps {
