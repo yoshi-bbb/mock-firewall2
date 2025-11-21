@@ -1,6 +1,6 @@
 import React from 'react';
 import { Incident, IncidentSeverity } from '../types';
-import { AlertTriangle, CheckCircle, Clock, Terminal, Download } from 'lucide-react';
+import { CheckCircle, Clock, Terminal, Download } from 'lucide-react';
 
 interface IncidentLogProps {
   incidents: Incident[];
